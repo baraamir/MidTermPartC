@@ -31,6 +31,10 @@ public class UserProfile
         genre= givenGenre;
     }
 
+ 
+
+    
+
     /**
      * A getter for the userID
      * @return the userID
